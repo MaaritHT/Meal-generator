@@ -7,7 +7,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+For food industry there is numerous possibilities to use different components: vegetables, proteins, spices and marinade to create new tasty experiences for customers. To get most efficiency way to mining these recipes according to nutrition requirements and marketing labels as well as customer satisfaction this AI tool will give food designers new way of working at global an local level.
 
 
 ## Background
@@ -24,7 +24,7 @@ This is how you make a list, if you need one:
 ## How is it used?
 With AI tool you can adjust valued different parameters, and design product to cover customer needs on different values. You can also plan meals cover different diets to avoiding allergens, gluten, meat etc.Describe the process of using the solution.
 
-Images will make your README look nice!
+
 ![nutritional recommendation by Valtioneuvosto]([https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvaltioneuvosto.fi%2F-%2F1410837%2Fuudet-ravitsemussuositukset&psig=AOvVaw1lXGfUnIFcghZZKpy5NK4Y&ust=1733226752740000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjs__6CiYoDFQAAAAAdAAAAABAE))
 
 main()
