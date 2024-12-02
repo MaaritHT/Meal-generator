@@ -26,9 +26,7 @@ With AI tool you can adjust valued different parameters, and design product to c
 
 
 ![nutritional recommendation by Valtioneuvosto]([https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvaltioneuvosto.fi%2F-%2F1410837%2Fuudet-ravitsemussuositukset&psig=AOvVaw1lXGfUnIFcghZZKpy5NK4Y&ust=1733226752740000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjs__6CiYoDFQAAAAAdAAAAABAE))
-
-main()
-```
+![Nutrion data]([(https://fineli.fi/fineli/fi/index)]
 
 ## Data sources and AI methods
 [Nutrion data]([(https://fineli.fi/fineli/fi/index)])
@@ -46,3 +44,6 @@ Start could be planned for one type of meals etc salad portions and then get mor
 
 * [list here the sources of inspiration](https://valtioneuvosto.fi/-/1410837/uudet-ravitsemussuositukset)
 * [Nutrion data]([(https://fineli.fi/fineli/fi/index)])
+
+main()
+```
